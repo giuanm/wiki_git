@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/Wiki_Git/static/js/main.cc2cfe63.js",
-    "static/media/github.png": "/Wiki_Git/static/media/github.4d74fd76ac168df7723c.png",
-    "index.html": "/Wiki_Git/index.html",
-    "main.cc2cfe63.js.map": "/Wiki_Git/static/js/main.cc2cfe63.js.map"
+    "main.js": "/wiki_git/static/js/main.ca7789a7.js",
+    "static/media/github.png": "/wiki_git/static/media/github.4d74fd76ac168df7723c.png",
+    "index.html": "/wiki_git/index.html",
+    "main.ca7789a7.js.map": "/wiki_git/static/js/main.ca7789a7.js.map"
   },
   "entrypoints": [
-    "static/js/main.cc2cfe63.js"
+    "static/js/main.ca7789a7.js"
   ]
 }
